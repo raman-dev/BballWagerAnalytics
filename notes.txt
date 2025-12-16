@@ -1,0 +1,16 @@
+What is my current strategy?
+-----------------------------
+
+Bets are placed on what?
+    Typically
+        - player points over
+        - team points over
+
+    Sometimes
+        - assists
+        - boards 
+        - player points under
+        - game win
+
+    If player points over
+        - player 
