@@ -12,5 +12,12 @@ Bets are placed on what?
         - player points under
         - game win
 
-    If player points over
-        - player 
+    If player points over selected
+        what do I know about this player to make this choice?
+            - should know last years performance
+            - should know current season performance
+            - should know injury status
+
+            - is team reliant on this scorer?
+            - does this person get enough shot attempts?
+            - need to know variance of points scored from 
